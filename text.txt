@@ -1,0 +1,20 @@
+START
+ input n 0<=n<=71100
+ if (n is 91<=n && n<=100)
+     print A
+ endif
+ if (n is 81<=n && n<=90)
+    print B
+ endif
+ if (n is 71<=n && n<=80)
+     print  C
+ endif
+ if (n is 61<=n && n<=70)
+    print D
+ endif
+ if (n is 51<=n && n<=60)
+    print E
+ if ( n is n<=51)
+    print fail     
+ 
+ 
